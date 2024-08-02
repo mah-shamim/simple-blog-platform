@@ -3,6 +3,8 @@ A basic blogging platform where users can post, edit, and delete articles. Built
 
 **Topics:** `php`, `mysql`, `blog`, `ajax`, `bootstrap`, `jquery`, `css`
 
+![simple-weather-app](./assets/images/simple-blog-platform.png)
+
 ### Install Process
 
 1. **Clone the Repository:**
@@ -16,7 +18,7 @@ A basic blogging platform where users can post, edit, and delete articles. Built
       Import the provided SQL file (`db/database.sql`) to set up the necessary tables.
     - Import the provided SQL file to set up the necessary tables.
     ```sh
-      mysql -u yourusername -p blog_db < database.sql
+      mysql -u yourusername -p blog_db < db/database.sql
     ```
 
 3. **Configure Database Connection:**
@@ -38,7 +40,7 @@ A basic blogging platform where users can post, edit, and delete articles. Built
 
 ### File Structure
 
-Here’s a basic file structure for your simple-weather-app application:
+Here’s a basic file structure for your simple-blog-platform application:
 
 ```
 simple-blog-platform/
