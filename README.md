@@ -13,7 +13,7 @@ A basic blogging platform where users can post, edit, and delete articles. Built
 
 2. **Set Up the Database:**
     - Create a MySQL database named `blog_db`.
-      Import the provided SQL file (`database/database.sql`) to set up the necessary tables.
+      Import the provided SQL file (`db/database.sql`) to set up the necessary tables.
     - Import the provided SQL file to set up the necessary tables.
     ```sh
       mysql -u yourusername -p blog_db < database.sql
