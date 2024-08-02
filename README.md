@@ -26,7 +26,7 @@ A basic blogging platform where users can post, edit, and delete articles. Built
       ```sh
       cp config.sample.php config.php
       ```
-    - Open `config.php` and update the database configuration and API key details.
+    - Open `config.php` and update the database configuration details.
 
 4. **Run the application:**
     - Serve the application using your local web server or PHP's built-in server:
