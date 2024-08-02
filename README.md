@@ -63,3 +63,4 @@ simple-blog-platform/
 │   └── images/
 ├── README.md
 └── .gitignore
+```
